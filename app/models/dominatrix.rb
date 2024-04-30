@@ -1,0 +1,2 @@
+class Dominatrix < ApplicationRecord
+end
